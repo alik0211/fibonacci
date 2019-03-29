@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "24.5.0"
+  },
+  "license": "MIT"
+}
