@@ -1,8 +1,4 @@
 function F(n) {
-  if (n < 2) {
-    return n;
-  }
-
   const numbers = [0, 1];
 
   for (let i = 2; i <= n; i++) {
